@@ -4,7 +4,7 @@
 
 - 🏫 School of Software, Dalian University of Technology(DUT).
 
-- 📚 I'm learning about AIGC and working towards becoming a PhD.
+- 📚 I'm learning about AIGC and working towards becoming a PhD student.
 
 - 🎸 Music is my antidote. You can find me <a href="https://b23.tv/tCCG97R" target="_blank">@bilibili</a>
 
