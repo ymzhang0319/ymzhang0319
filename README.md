@@ -1,10 +1,10 @@
-<h1>Nice to see you!</h1>
+<h1 style="text-decoration: none; color: #000">Nice to see you!</h1>
 
 - 👋 Hi! I'm <b>Yiming</b>, a senior in college now.
 
 - 🏫 School of Software, Dalian University of Technology(DUT).
 
-- 📚 I'm learning about AI and working towards becoming a PhD.
+- 📚 I'm learning about AIGC and working towards becoming a PhD.
 
 - 🎸 Music is my antidote. You can find me <a href="https://b23.tv/tCCG97R">@bilibili</a>
 
