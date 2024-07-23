@@ -1,10 +1,10 @@
 <h1 style="text-decoration: none; color: #000">Nice to see you!</h1>
 
-- 👋 Hi! I'm <b>Yiming</b>, a senior in college now.
+- 👋 Hi! I'm <b>Yiming</b>, a PhD. candidate jointly at <a href="https://en.ustc.edu.cn/" target="_blank">USTC</a> and <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>.
 
-- 🏫 School of Software, Dalian University of Technology(DUT).
+- 🏫 University of Science and Technology of China (USTC).
 
-- 📚 I'm learning about AIGC and working towards becoming a PhD student.
+- 📚 My research interests focus on Generative AI including Video, Audio and Multimodal Generation.
 
 - 🎸 Music is my antidote. You can find me <a href="https://b23.tv/tCCG97R" target="_blank">@bilibili</a>
 
